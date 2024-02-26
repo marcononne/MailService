@@ -1,0 +1,8 @@
+[
+{"date":"Mon Mar 27 10:12:37 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"Prova prova prova","id":3,"text":"Madonna scolpita"}
+,{"date":"Mon Mar 27 09:14:39 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"Nuova prova post","id":4,"text":"SIUUUUU"}
+,{"date":"Mon Mar 27 11:44:54 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"Prova con server acceso","id":115,"text":"AAAAA"}
+,{"date":"Mon Mar 27 17:04:33 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"Prova con server spento","id":135,"text":"AAAAA"}
+,{"date":"Mon Mar 27 17:33:33 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"RE: RE: Test mentre scrivo una mail","id":143,"text":"Ora funzioni bastardo?"}
+,{"date":"Mon Mar 27 17:40:33 2023","receiver":["federico.pitaccolo@email.com"],"sender":"marco.nonne@email.com","subject":"peperoni ","id":145,"text":"Take the gun, leave the cannoli"}
+,]

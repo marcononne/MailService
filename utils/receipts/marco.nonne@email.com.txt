@@ -1,0 +1,8 @@
+[
+{"date":"Mon Mar 27 10:12:28 2023","receiver":["marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: Nuova prova post cambio","id":2,"text":"fjwbdfjbfwib"}
+,{"date":"Mon Mar 27 11:13:37 2023","receiver":["marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: Prova per MAtteo siuuuu","id":114,"text":"La madonna invereconda"}
+,{"date":"Mon Mar 27 14:29:33 2023","receiver":["arianna.lezzi@email.com","marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: Test due receiver","id":122,"text":"Ah, pensavo stesse arrivando il topo più amato del mondo!"}
+,{"date":"Mon Mar 27 17:21:31 2023","receiver":["marco.nonne@email.com"],"sender":"arianna.lezzi@email.com","subject":"RE: Test mentre scrivo una mail","id":139,"text":"Amo topo gigio"}
+,{"date":"Mon Mar 27 17:34:17 2023","receiver":["marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: RE: RE: Test mentre scrivo una mail","id":144,"text":"Topo gigio è mio fratello"}
+,{"date":"Mon Mar 27 17:41:44 2023","receiver":["marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: peperoni ","id":146,"text":"Prima devo chiedere il permesso a topo gigio"}
+,]

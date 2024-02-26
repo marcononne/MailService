@@ -1,0 +1,5 @@
+[
+{"date":"Mon Mar 27 13:13:37 2023","receiver":["arianna.lezzi@email.com"],"sender":"marco.nonne@email.com","subject":"Prova prova prova","id":207,"text":"Madonna stupida"}
+,{"date":"Mon Mar 27 14:29:33 2023","receiver":["arianna.lezzi@email.com","marco.nonne@email.com"],"sender":"federico.pitaccolo@email.com","subject":"RE: Test due receiver","id":122,"text":"Ah, pensavo stesse arrivando il topo più amato del mondo!"}
+,{"date":"Mon Mar 27 14:31:46 2023","receiver":["arianna.lezzi@email.com"],"sender":"marco.nonne@email.com","subject":"Test mentre scrivo una mail","id":123,"text":"abrabarabrbarbabrara"}
+,]
